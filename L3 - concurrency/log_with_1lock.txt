@@ -1,0 +1,62 @@
+n2-96-114:lab3 cbcasa$ sh run.sh 
+run 1
+count: 1000000
+
+real	0m0.040s
+user	0m0.012s
+sys	0m0.061s
+run 2
+count: 1000000
+
+real	0m0.041s
+user	0m0.012s
+sys	0m0.062s
+run 3
+count: 1000000
+
+real	0m0.039s
+user	0m0.011s
+sys	0m0.060s
+run 4
+count: 1000000
+
+real	0m0.041s
+user	0m0.012s
+sys	0m0.061s
+run 5
+count: 1000000
+
+real	0m0.040s
+user	0m0.012s
+sys	0m0.061s
+run 6
+count: 1000000
+
+real	0m0.040s
+user	0m0.012s
+sys	0m0.063s
+run 7
+count: 1000000
+
+real	0m0.043s
+user	0m0.012s
+sys	0m0.063s
+run 8
+count: 1000000
+
+real	0m0.041s
+user	0m0.011s
+sys	0m0.061s
+run 9
+count: 1000000
+
+real	0m0.040s
+user	0m0.011s
+sys	0m0.061s
+run 10
+count: 1000000
+
+real	0m0.039s
+user	0m0.012s
+sys	0m0.060s
+n2-96-114:lab3 cbcasa$ 

@@ -1,0 +1,55 @@
+Christian-Benincasas-MacBook-Pro:final cbcasa$ DIMENSION=8 GAMES=3 make run
+gcc -o main.o main.c game-lib.c
+export DIMENSION=8
+export GAMES=3
+./main.o
+Parent wins against child[10997]!
+7   - - - - - - - -
+6   - - - - - - - -
+5   - - - - - - - -
+4   - - - - - - - -
+3   - - - - - - - -
+2   - - - - - - - -
+1   - - - - - O O O
+0   - - - - X X X X
+    0 1 2 3 4 5 6 7
+
+Parent wins against child[10999]!
+7   - - - - - - - -
+6   - - - - - - - -
+5   - - - - - - - -
+4   - - - - - - - -
+3   - - - - - - - -
+2   - - - - - - - -
+1   - - - - - O O O
+0   - - - - X X X X
+    0 1 2 3 4 5 6 7
+
+Parent wins against child[10998]!
+7   - - - - - - - -
+6   - - - - - - - -
+5   - - - - - - - -
+4   - - - - - - - -
+3   - - - - - O O O
+2   - - - - X X X X
+1   - - - - O X X X
+0   - - - - O O O X
+    0 1 2 3 4 5 6 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
