@@ -8,11 +8,11 @@ This program was tested on OSX 10.8.2 as well as the Drexel's Tux machines. The 
 
 This program is run with certain options from the command line. These options are explained below:
 
-	-d	:	name of the base directory to start the recursive search [defaults to cwd]
+	-d	: name of the base directory to start the recursive search [defaults to cwd]
 	-p	: pattern to match
 	-r	: replacement string
 	-f	: restrict search to only files/folders containing this string
 	-m	: mode -> 
-					0	: rename files/folders
-					1	: scan file contents for matches
+			0	: rename files/folders
+			1	: scan file contents for matches
 					
